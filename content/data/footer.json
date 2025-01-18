@@ -116,7 +116,7 @@
         {
             "type": "Link",
             "label": "Contact",
-            "altText": "Blog",
+            "altText": "Contact",
             "url": "Blog",
             "icon": "arrowRight",
             "iconPosition": "right",
