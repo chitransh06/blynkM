@@ -92,7 +92,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "About"
         },
         {
             "label": "Privacy",
