@@ -48,6 +48,15 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Careers",
+            "altText": "Careers page",
+            "url": "/Blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
         }
     ],
     "secondaryLinks": [
