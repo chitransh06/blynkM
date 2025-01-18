@@ -97,6 +97,15 @@
         },
         {
             "type": "Link",
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "Contact",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
+            "type": "Link",
             "label": "Case Studies",
             "altText": "Case Studies",
             "url": "Case Studies",
@@ -109,15 +118,6 @@
             "label": "Careers",
             "altText": "Careers page",
             "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary"
-        },
-        {
-            "type": "Link",
-            "label": "Contact",
-            "altText": "Contact",
-            "url": "Contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
