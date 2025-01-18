@@ -106,7 +106,7 @@
         {
             "type": "Link",
             "label": "Case Studies",
-            "altText": "Careers page",
+            "altText": "Case Studies",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",
