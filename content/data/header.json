@@ -52,7 +52,7 @@
             "type": "Button"
         },
         {
-            "label": "Schedule a ",
+            "label": "Schedule a Call",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
