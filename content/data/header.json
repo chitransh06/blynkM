@@ -52,7 +52,7 @@
         {
             "type": "Link",
             "label": "Blog",
-            "altText": "Careers page",
+            "altText": "Blog",
             "url": "/Blog",
             "icon": "arrowRight",
             "iconPosition": "right",
