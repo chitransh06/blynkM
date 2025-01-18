@@ -22,6 +22,16 @@
             "altText": "work"
         },
         {
+            "label": "About",
+            "altText": "about",
+            "url": "/about",
+            "icon": "chevronDown",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": true
+        },
+        {
             "type": "Button",
             "label": "Contact",
             "altText": "Contact",
@@ -31,16 +41,6 @@
             "iconPosition": "right",
             "style": "primary",
             "elementId": ""
-        },
-        {
-            "label": "About",
-            "altText": "about",
-            "url": "/about",
-            "icon": "chevronDown",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
         },
         {
             "label": "Careers",
