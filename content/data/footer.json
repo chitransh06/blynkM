@@ -117,7 +117,7 @@
             "type": "Link",
             "label": "Contact",
             "altText": "Contact",
-            "url": "Blog",
+            "url": "Contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
