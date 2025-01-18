@@ -53,7 +53,7 @@
         },
         {
             "label": "Schedule a Call",
-            "url": "/",
+            "url": "/Schedule",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
