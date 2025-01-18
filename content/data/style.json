@@ -35,7 +35,7 @@
         "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
     },
     "h5": {
