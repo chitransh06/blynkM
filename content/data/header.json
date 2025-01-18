@@ -1,31 +1,35 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/empathy-logo.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Work",
+            "url": "/work",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "work"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
-            "icon": "arrowRight",
+            "label": "About",
+            "altText": "about",
+            "url": "/about",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
             "label": "Careers",
@@ -37,55 +41,33 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
-            "links": [
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                },
-                {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link"
-                }
-            ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
+            "type": "Link",
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "Contact",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/Blog",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
         }
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
+            "label": "Schedule a Call",
+            "url": "/Schedule",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
-            "type": "Button"
+            "type": "Button",
+            "altText": "Schedule a Call"
         }
     ],
     "variant": "logo-left-primary-nav-centered",

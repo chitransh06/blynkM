@@ -8,39 +8,39 @@
     "fontHeadlines": "sans",
     "h1": {
         "size": "6xl",
-        "weight": "normal",
+        "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wider",
         "type": "ThemeStyleHeading"
     },
     "h2": {
         "size": "5xl",
-        "weight": "normal",
+        "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
     },
     "h3": {
         "size": "3xl",
-        "weight": "normal",
+        "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
     },
     "h4": {
         "size": "2xl",
-        "weight": "normal",
+        "weight": "bold",
         "decoration": "none",
         "case": "none",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
     },
     "h5": {
         "size": "xl",
-        "weight": "normal",
+        "weight": "bold",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",
@@ -48,7 +48,7 @@
     },
     "h6": {
         "size": "lg",
-        "weight": "normal",
+        "weight": "medium",
         "decoration": "none",
         "case": "none",
         "letterSpacing": "normal",

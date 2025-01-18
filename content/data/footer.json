@@ -87,12 +87,40 @@
     ],
     "legalLinks": [
         {
-            "label": "Terms",
-            "url": "/",
+            "label": "About",
+            "url": "/About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "About"
+        },
+        {
+            "type": "Link",
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "Contact",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Case Studies",
+            "altText": "Case Studies",
+            "url": "Case Studies",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
+        },
+        {
+            "type": "Link",
+            "label": "Careers",
+            "altText": "Careers page",
+            "url": "/careers",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary"
         },
         {
             "label": "Privacy",
