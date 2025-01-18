@@ -116,7 +116,7 @@
             "type": "Link",
             "label": "Blog",
             "altText": "Blog",
-            "url": "/careers",
+            "url": "Blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
