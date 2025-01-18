@@ -52,7 +52,7 @@
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Get a call",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
