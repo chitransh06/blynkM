@@ -51,7 +51,7 @@
         },
         {
             "type": "Link",
-            "label": "Careers",
+            "label": "Blog",
             "altText": "Careers page",
             "url": "/Blog",
             "icon": "arrowRight",
