@@ -26,7 +26,7 @@
             "url": "/about",
             "icon": "chevronDown",
             "iconPosition": "right",
-            "style": "primary",
+            "style": "secondary",
             "type": "Link",
             "showIcon": true
         },
