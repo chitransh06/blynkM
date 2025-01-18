@@ -24,7 +24,7 @@
             "label": "About",
             "altText": "about",
             "url": "/about",
-            "icon": "arrowDown",
+            "icon": "chevronDown",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
