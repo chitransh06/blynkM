@@ -52,7 +52,7 @@
             "type": "Button"
         },
         {
-            "label": "Sche",
+            "label": "Schedule a ",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
