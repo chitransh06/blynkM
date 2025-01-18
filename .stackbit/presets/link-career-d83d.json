@@ -1,0 +1,28 @@
+{
+    "model": "Link",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "Career",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "career"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "label": "Careers",
+                "altText": "Careers page",
+                "url": "/careers",
+                "showIcon": null,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": null
+            },
+            "thumbnail": "images/link-career-d83d.png"
+        }
+    ]
+}
