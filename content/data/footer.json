@@ -107,7 +107,7 @@
             "type": "Link",
             "label": "Case Studies",
             "altText": "Case Studies",
-            "url": "/careers",
+            "url": "Case Studies",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary"
