@@ -39,13 +39,6 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
-        },
-        {
-            "type": "SubNav",
-            "label": "Contact",
-            "altText": "Contact",
-            "links": [],
-            "labelStyle": "secondary"
         }
     ],
     "secondaryLinks": [
