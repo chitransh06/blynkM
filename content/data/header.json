@@ -43,7 +43,7 @@
         {
             "type": "SubNav",
             "label": "Contact",
-            "altText": "Dropdown",
+            "altText": "Contact",
             "links": [],
             "labelStyle": "secondary"
         }
