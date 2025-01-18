@@ -42,7 +42,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Contact",
             "altText": "Dropdown",
             "links": [],
             "labelStyle": "secondary"
