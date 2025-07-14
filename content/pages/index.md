@@ -744,8 +744,8 @@ seo:
   metaTitle: 'Blonk: Creative + Media + Tech Company'
   metaDescription: >-
     Blonk Inc is a future-focused creative and tech agency bridging India and
-    the Dubai. We craft bold brand strategies, immersive digital experiences,
-    and high-impact marketing that make brands unforgettable...
+    Dubai. We craft bold brand strategies, immersive digital experiences, and
+    high-impact marketing that make brands unforgettable...
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
