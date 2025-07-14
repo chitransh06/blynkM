@@ -8,10 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Strategy. Creativity. Execution. All in one.
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: "At Blonk Inc, we blend data-driven strategy, bold creativity, and cutting-edge tech to deliver campaigns that don’t just look good — they work. From brand building to performance marketing, we help you cut through the noise and make a\_lasting\_impact.\n"
     actions:
       - label: Get started
         altText: ''
