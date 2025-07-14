@@ -21,7 +21,7 @@ sections:
         type: Button
       - label: See our work
         altText: ''
-        url: /
+        url: '/https://blynkmedia.in/work/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
