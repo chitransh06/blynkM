@@ -19,7 +19,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: See our work
         altText: ''
         url: /
         showIcon: true
