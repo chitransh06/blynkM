@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Unleash your brand, supercharge your growth'
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Strategy. Creativity. Execution. All in one.
     text: "At Blonk Inc, we blend data-driven strategy, bold creativity, and cutting-edge tech to deliver campaigns that don’t just look good — they work. From brand building to performance marketing, we help you cut through the noise and make a\_lasting\_impact.\n"
@@ -741,8 +741,11 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: 'Blonk: Creative + Media + Tech Company'
+  metaDescription: >-
+    Blonk Inc is a future-focused creative and tech agency bridging India and
+    Dubai. We craft bold brand strategies, immersive digital experiences, and
+    high-impact marketing that make brands unforgettable...
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
