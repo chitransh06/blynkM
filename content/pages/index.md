@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Unleash your brand, supercharge your growth'
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Strategy. Creativity. Execution. All in one.
     text: "At Blonk Inc, we blend data-driven strategy, bold creativity, and cutting-edge tech to deliver campaigns that don’t just look good — they work. From brand building to performance marketing, we help you cut through the noise and make a\_lasting\_impact.\n"
